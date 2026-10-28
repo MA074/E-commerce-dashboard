@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing 2016 e-commerce sales across three product categories: **Men's Fashion**, **Beauty & Grooming**, and **Kids & Baby**. It covers sales trends, top products, discount impact, payment preferences, and order status breakdowns.
 
-![E-commerce Dashboard Overview]("dashboard e-commerce.png")
+![E-commerce Dashboard Overview](dashboard_e-commerce.png)
 
 ---
 
